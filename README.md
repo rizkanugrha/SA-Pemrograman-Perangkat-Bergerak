@@ -13,7 +13,7 @@ Aplikasi **Task Tracker Core** ini adalah fondasi aplikasi manajemen tugas yang 
 ## Instruksi run
 
 ```bash
-flutter create --name-project=p03_provider_crud --platforms=android,web . # di dalam folder ini
+flutter create --project-name=p03_provider_crud --platforms=android,web . # di dalam folder ini
 flutter pub get
 flutter analyze
 flutter test
