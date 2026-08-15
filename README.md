@@ -129,16 +129,17 @@ flutter run
 dependencies:
   flutter:
     sdk: flutter
-  provider: ^6.1.2         
-  http: ^1.2.2              
-  sqflite: ^2.3.3           
-  path: ^1.9.0              
-  cupertino_icons: ^1.0.8   
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  sqflite: ^2.3.3
+  path: ^1.9.0
+  http: ^1.2.2
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: any
-  sqflite_common_ffi: ^2.3 
+  flutter_lints: ^4.0.0
+  sqflite_common_ffi: ^2.3.3
 ```
 
