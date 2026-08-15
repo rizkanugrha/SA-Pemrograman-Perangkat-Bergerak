@@ -116,8 +116,8 @@ cd e:\rizka\p03-provider-crud
 flutter pub get
 
 # 2. Run checks
-flutter analyze   # 0 issues ✅
-flutter test      # 25/25 passing ✅
+flutter analyze   
+flutter test      
 
 # 3. Run app
 flutter run
